@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387297652472",
+    "firebase_url": "https://swinfix-2de36-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "swinfix-2de36",
+    "storage_bucket": "swinfix-2de36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387297652472:android:d8aba34a9f07bfb0db150d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387297652472-ici2f9r8lg990f2gk2snol7av8bi874e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "541ce5e2a1551be8905d321940bdd8ca82a6a9f6"
+          }
+        },
+        {
+          "client_id": "387297652472-88qsf8b1kdcmpnukkr1nv4h4013abv0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpMWOh4jYc8DXBwmfcaLKVbeJpYmSpQ9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387297652472-88qsf8b1kdcmpnukkr1nv4h4013abv0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

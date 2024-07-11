@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\austi\\Desktop\\flutter\\swinfix 2.0\\flutter_application_1\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\austi\\.gradle\\caches\\transforms-3\\4162c867b126e4fbfe99736e69b5c8b1\\transformed\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\austi\\Desktop\\flutter\\swinfix 2.0\\flutter_application_1\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\austi\\.gradle\\caches\\transforms-3\\4162c867b126e4fbfe99736e69b5c8b1\\transformed\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\austi\\Desktop\\flutter\\swinfix 2.0\\flutter_application_1\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\austi\\.gradle\\caches\\transforms-3\\4162c867b126e4fbfe99736e69b5c8b1\\transformed\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\austi\\Desktop\\flutter\\swinfix 2.0\\flutter_application_1\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\austi\\.gradle\\caches\\transforms-3\\4162c867b126e4fbfe99736e69b5c8b1\\transformed\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]

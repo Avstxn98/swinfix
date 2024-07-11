@@ -1,0 +1,4 @@
+#Wed Mar 24 10:22:03 GMT 2021
+base.0=C\:\\Users\\austi\\Desktop\\flutter\\swinfix 2.0\\flutter_application_1\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
